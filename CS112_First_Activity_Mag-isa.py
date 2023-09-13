@@ -1,0 +1,6 @@
+print("Complete Name: Jules Rafael J. Mag-isa")
+print("Course: BS Computer Science")
+print("Section: CS1E")
+print("Age: 22")
+print("Birthday: July 13, 2001")
+print("Complete Home Address: Block 3, Lot 5, PGB, Casisang, Malaybalay City, Bukidnon")
